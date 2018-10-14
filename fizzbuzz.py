@@ -17,7 +17,7 @@ def getinput():
 
 def fizzbuzzalgo(thelistinfizzbuzzalgo, firstmultiple, secondmultiple):
     """This algo detect if integers in a list are multiples
-    of other choosen integers"""
+    of other choosen integers."""
     listedesdeux = []
     listedupremier = []
     listedusecond = []
